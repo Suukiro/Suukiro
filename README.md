@@ -1,5 +1,4 @@
-#
-##
+
 
 cd /home/Suukiro/fotos de tu madre
 
