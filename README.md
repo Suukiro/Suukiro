@@ -12,4 +12,4 @@ TUMADRE1.JPG TUMADRE2.JPG TUMADRE3.JPG mamagod.h mamagod mamagod.c archivosdemad
 sudo make install
 
 
-TU MADRE AHORA ES MIA
+your mom is now mine...
