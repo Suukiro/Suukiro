@@ -1,12 +1,11 @@
 
 
-cd /home/Suukiro/fotos de tu madre
-
+cd /home/Suukiro/pics of your mom
 
 ls
 
 
-TUMADRE1.JPG TUMADRE2.JPG TUMADRE3.JPG mamagod.h mamagod mamagod.c archivosdemadres watafac
+YOURMOM1.JPG YOUMOM2.JPG YOURMOM3.JPG mommygod mommygod.c mommyfiles mommygod.def.h
 
 
 sudo make install
